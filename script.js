@@ -5,31 +5,31 @@ let lastname = prompt('Kак ваша фамилия?');
 
 alert('Рад быль познокомится ' + name + ' ' + lastname);
 
-var str = +prompt('Введите своё имя');
+var a = +prompt('Введите своё имя');
 
-var str = +prompt('Введите свой возраст');
+var b = +prompt('Введите свой возраст');
 
-var srt = +prompt('10 + 18 = ?' )
-console.log(srt);
+var c = +prompt('10 + 18 = ?' )
+console.log(c);
 
-console.log( '10 + 18 = ' + (10 + 18) + ' Ваш ответ: 28' );
+console.log( '10 + 18 = ' + (10 + 18) + ' Ваш ответ: ' + c);
 
-var srt = +prompt('38 - 10 = ?' )
-console.log(srt);
+var d = +prompt('38 - 10 = ?' )
+console.log(d);
 
-console.log( '38 - 10 = ' + (38 - 10) + ' Ваш ответ: 28' );
+console.log( '38 - 10 = ' + (38 - 10) + ' Ваш ответ: ' + d);
 
-var srt = +prompt('1 * 28 = ?' )
-console.log(srt);
+var e = +prompt('1 * 28 = ?' )
+console.log(e);
 
-console.log( '1 * 28 = ' + (1 * 28) + ' Ваш ответ: 28' );
+console.log( '1 * 28 = ' + (1 * 28) + ' Ваш ответ: ' + e);
 
-var srt = +prompt('28 / 1 = ?' )
-console.log(srt);
+var f = +prompt('28 / 1 = ?' )
+console.log(f);
 
-console.log( '28 / 1 = ' + (28 / 1) + ' Ваш ответ: 28' );
+console.log( '28 / 1 = ' + (28 / 1) + ' Ваш ответ: ' + f);
 
-var srt = +prompt('28 % 100 = ?' )
-console.log(srt);
+var j = +prompt('28 % 100 = ?' )
+console.log(j);
 
-console.log( '28 % 100 = ' + (28 % 100) + ' Ваш ответ: 28' );
+console.log( '28 % 100 = ' + (28 % 100) + ' Ваш ответ: ' + j);
